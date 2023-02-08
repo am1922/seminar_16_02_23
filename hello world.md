@@ -15,6 +15,7 @@ To make text unnumbered list, mart text at start asteriks whith space
 * list 2
 * list 3
 
+To make numbered list, just tap number with dot and space
 1. numbered list
 2. numbered list
 3. numbered list
