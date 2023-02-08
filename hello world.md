@@ -1,8 +1,13 @@
-Hello world!
+# Frist file GIT
 
-*Курсив*
+## Text selection
+
+To italicize text, frame it with asterisks -
+*Italics.*
 
 **Bold**
+
+## Lists
 
 * list 1
 * list 2
@@ -11,5 +16,3 @@ Hello world!
 1. numbered list
 2. numbered list
 3. numbered list
-
-Начинаем наше знакомство с контролем версий
