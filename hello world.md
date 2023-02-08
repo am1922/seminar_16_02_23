@@ -5,6 +5,7 @@
 To make text italicize, mark it on both sides with asterisks -
 *Italics.*
 
+To make text to be bold, mark it on both sides with double asterisks -
 **Bold**
 
 ## Lists
