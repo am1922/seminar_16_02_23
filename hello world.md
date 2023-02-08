@@ -2,7 +2,7 @@
 
 ## Text selection
 
-To italicize text, frame it with asterisks -
+To make text italicize, mark it on both sides with asterisks -
 *Italics.*
 
 **Bold**
