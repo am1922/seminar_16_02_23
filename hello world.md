@@ -10,6 +10,7 @@ To make text to be bold, mark it on both sides with double asterisks -
 
 ## Lists
 
+To make text unnumbered list, mart text at start asteriks whith space
 * list 1
 * list 2
 * list 3
