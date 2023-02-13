@@ -19,3 +19,5 @@ To make numbered list, just tap number with dot and space
 1. numbered list
 2. numbered list
 3. numbered list
+
+# GIT instractions
