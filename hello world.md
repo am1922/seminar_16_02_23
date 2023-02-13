@@ -42,7 +42,7 @@ To make numbered list, just tap number with dot and space
 
 * **git add <имя_файла>**
 
-Добавим конкретный файл проекта в нам будующий commit.
+Добавим конкретный файл проекта в наш будующий commit.
 
 * **git commit -m "<комментарий>"**
 
@@ -52,3 +52,15 @@ To make numbered list, just tap number with dot and space
 * **git commit-am "<коментарий>"**
 
 Лайфхак который объединяет в себе две команды **git add** и **git commit -m "<комментарий>"**.
+
+* **git checkout**
+
+С помощью этой команды мы перемещаемся между нашими commit.
+
+* **git checkout master**
+
+Возвращает нас к последниму коммиту
+
+* **git diff**
+
+Используется для вычисления разницы между любыми двумя git деревьями.
